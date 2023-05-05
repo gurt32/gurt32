@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @gurt32
-- 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Campus
-- 📫 How to reach me Friend:v
+Ra niat
 
 <!---
 gurt32/gurt32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
