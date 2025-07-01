@@ -1,4 +1,4 @@
-Ra niat
+Bismillah konsisten
 
 <!---
 gurt32/gurt32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
